@@ -32,4 +32,6 @@ We ask that you include:
 * A PDF file of your cheat sheet, include the language in the file name
 * Your translated keynote or powerpoint file
 
+Please make sure you are not duplicating an existing translation. If a translation already exists but needs updating, edit or replace the existing file instead of creating a new one. To do this, simply name your file the same as the existing file.
+
 Cheat sheet pull requests and issues tend be handled in bursts, and we may wait for several to accumulate before sorting through them so don't worry if your submission sits for a while!
