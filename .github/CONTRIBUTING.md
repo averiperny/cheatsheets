@@ -33,3 +33,5 @@ We ask that you include:
 * Your translated keynote or powerpoint file
 
 Cheat sheet pull requests and issues tend be handled in bursts, and we may wait for several to accumulate before sorting through them so don't worry if your submission sits for a while!
+
+<!-- Example Edits -->
